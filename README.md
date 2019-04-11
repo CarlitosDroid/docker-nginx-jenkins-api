@@ -2,7 +2,7 @@
 <h2 align="center">POWERED BY CARLITOSDROID</h2>
 
 <p align="center">
-    <img src="screenshots/architecture.png" alt="icon" width="75%"/>
+    <img src="screenshots/architecture.png" alt="icon" width="85%"/>
 </p>
 
 ## MEDIUM POST
